@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Feb 10 13:08:56 2023
+# Process ID: 5420
+# Current directory: C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23128 C:\Users\Liam\Desktop\School\W21\ENGG 3380\MIPS_16bit\MIPS_16bit.xpr
+# Log file: C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit/vivado.log
+# Journal file: C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit/MIPS_16bit.xpr}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+update_compile_order -fileset sources_1
+close_project
+open_project {C:/Users/Liam/Desktop/School/W21/ENGG 3380/Labs/lab3/L5_P2/L5_P2.xpr}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+save_project_as MIPS_16bit {C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit} -force

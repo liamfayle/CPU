@@ -1,0 +1,38 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Feb 10 13:08:56 2023
+# Process ID: 5420
+# Current directory: C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23128 C:\Users\Liam\Desktop\School\W21\ENGG 3380\MIPS_16bit\MIPS_16bit.xpr
+# Log file: C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit/vivado.log
+# Journal file: C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit/MIPS_16bit.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit/MIPS_16bit.gen/sources_1'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit/MIPS_16bit.srcs/sources_1/imports/src/CPU_3380.vhd'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit/MIPS_16bit.srcs/sim_1/imports/src/CPU_3380_Test.vhd'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+update_compile_order -fileset sources_1
+close_project
+open_project {C:/Users/Liam/Desktop/School/W21/ENGG 3380/Labs/lab3/L5_P2/L5_P2.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/Liam/Desktop/School/W21/ENGG 3380/Labs/lab3/L5_P2/L5_P2.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2020.2/data/ip'.
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+save_project_as MIPS_16bit {C:/Users/Liam/Desktop/School/W21/ENGG 3380/MIPS_16bit} -force
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Feb 10 13:13:36 2023...

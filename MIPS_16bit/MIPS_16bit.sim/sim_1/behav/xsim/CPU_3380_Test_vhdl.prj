@@ -1,0 +1,20 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../L5_P2.srcs/sources_1/imports/src/ALU.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/ALU_16Bit.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/CPU_3380.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/Control.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/MUX31.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/Registers.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/SignExtend.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/and_gate.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/beq.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/full_adder.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/mux2_1.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/or_gate.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/slt.vhd" \
+"../../../../L5_P2.srcs/sources_1/imports/src/xor_gate.vhd" \
+"../../../../L5_P2.srcs/sim_1/imports/src/CPU_3380_Test.vhd" \
+
+# Do not sort compile order
+nosort

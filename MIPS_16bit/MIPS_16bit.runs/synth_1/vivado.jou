@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Feb 10 12:57:14 2023
+# Process ID: 2432
+# Current directory: C:/Users/Liam/Desktop/School/W21/ENGG 3380/Labs/lab3/L5_P2/L5_P2.runs/synth_1
+# Command line: vivado.exe -log CPU_3380.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU_3380.tcl
+# Log file: C:/Users/Liam/Desktop/School/W21/ENGG 3380/Labs/lab3/L5_P2/L5_P2.runs/synth_1/CPU_3380.vds
+# Journal file: C:/Users/Liam/Desktop/School/W21/ENGG 3380/Labs/lab3/L5_P2/L5_P2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source CPU_3380.tcl -notrace
