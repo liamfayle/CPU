@@ -10,15 +10,15 @@
 |--------|--------|--------|--------|
 | 4 bits | 4 bits | 4 bits | 4 bits |
 - opcode -- 4 bits (16 possible operations, 8 implemented)
-   0 -- ADD
-   1 -- SUB 
-   2 -- AND
-   3 -- OR
-   4 -- ADDi
-   5 -- SUBi
-   6 -- SW
-   7 -- SLT
-   8 -- LW 
+   - 0 -- ADD
+   - 1 -- SUB 
+   - 2 -- AND
+   - 3 -- OR
+   - 4 -- ADDi
+   - 5 -- SUBi
+   - 6 -- SW
+   - 7 -- SLT
+   - 8 -- LW 
 - rd -- Destination register in 16x16 register file
 - rs - Source register in 16x16 register file
 - rt / i -- Second source register OR immediate value
